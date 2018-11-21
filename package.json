@@ -1,0 +1,26 @@
+{
+  "name": "thesaurus-example-friedlflorian",
+  "version": "1.0.0",
+  "description": "Your job is to implement a command-line [Thesaurus](https://en.wikipedia.org/wiki/Thesaurus) tool in Node.js using TypeScript. Use the [openthesaurus.de](https://www.openthesaurus.de/) word database as the data source for your tool. You can download the database in text format [here](https://www.openthesaurus.de/export/OpenThesaurus-Textversion.zip).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/thesaurus-example-FriedlFlorian.git"
+  },
+  "author": "Florian Friedl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/thesaurus-example-FriedlFlorian/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/thesaurus-example-FriedlFlorian#readme",
+  "dependencies": {
+    "@types/node": "^10.12.9",
+    "global": "^4.3.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
+}
